@@ -1,7 +1,8 @@
 # LLM Data Wizard
 
-🌍 Energy Consumption Analysis
-📌 Project Overview
+#🌍 Energy Consumption Analysis
+
+# 📌 Project Overview
 This project analyzes global energy consumption trends using a dataset containing:
 
 Year
@@ -18,7 +19,7 @@ Day
 
 The main goal is to identify energy usage patterns, renewable adoption, and the relationship between consumption and emissions.
 
-🛠 Technology Stack
+# 🛠 Technology Stack
 Python 🐍
 
 Pandas → Data cleaning & processing
@@ -27,7 +28,7 @@ Matplotlib / Seaborn → Data visualization
 
 Jupyter Notebook → Analysis environment
 
-📊 Key Visualizations
+# 📊 Key Visualizations
 Energy Consumption Over Days → Line plot of daily energy use.
 
 Renewable Energy % by Country → Bar chart comparison of renewable adoption.
@@ -38,14 +39,15 @@ Average Energy Consumption per Country → Bar chart of average usage.
 
 Trend Over Years → Line chart of energy consumption trends per country.
 
-🎯 Insights & Findings
+# 🎯 Insights & Findings
 Countries with higher renewable percentages show lower CO2 emissions.
 
 Daily consumption shows clear fluctuations, highlighting peak usage days.
 
 A positive correlation exists between energy consumption and emissions.
 
-📌 Conclusion
+
+# 📌 Conclusion
 Renewable energy adoption is increasing but still not sufficient to offset rising energy demand.
 
 Some countries are leading in renewables while others remain heavily dependent on fossil fuels.
